@@ -8,6 +8,7 @@
 * Si usas Linux, tal vez necesites instalar git accediendo a tu terminal e ingresado `apt-get install git`
 * Si tienes problemas instalando Git, este recurso puede servir de ayuda: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
+hola
 
 ### Comandos básicos de terminal
 
